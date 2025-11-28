@@ -1,0 +1,4 @@
+app.name=MiAplicacion
+app.environment=development
+server.port=8080
+logging.level.root=INFO
