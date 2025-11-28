@@ -1,0 +1,12 @@
+{
+  "app_name": "MiAplicacion",
+  "version": "1.0.0",
+  "logging": {
+    "level": "info",
+    "path": "/var/log/miapp.log"
+  },
+  "features": {
+    "cache": true,
+    "api_enabled": true
+  }
+}
